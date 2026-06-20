@@ -1476,7 +1476,7 @@ async def main():
 
     await app.start()
     await resolve_log_group_id(app)
-    print("oxygen Bot is running...")
+    print("Бот Axiom для массовой рассылки репортажей...")
     await asyncio.Event().wait()
 
 
